@@ -1,6 +1,6 @@
 # Self-Evaluation
 
-## Name(s): 
+## Name(s): Shihua Yu
 
 Out of 25 points. Use output.txt created using 
 `./create-output.sh > output.txt 2>&1` for guidance.
